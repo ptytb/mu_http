@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg2837"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="file.svg"
+   inkscape:export-filename="/media/usb3/5 семестр/ОС Лабы 2 Модуль/u/icons/file.png"
+   inkscape:export-xdpi="28.120001"
+   inkscape:export-ydpi="28.120001">
+  <defs
+     id="defs2839">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective2845" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5"
+     inkscape:cx="32.619746"
+     inkscape:cy="31.272727"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-grids="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3639" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2842">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.090909,42.727273 28,0"
+       id="path2825" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.28945267;stroke-opacity:1"
+       d="m 7.40625,51.5 c 17.114583,0 34.229167,0 51.34375,0 -0.292553,-12.390737 -0.191295,-12.422246 0,-38.09375 -15.159091,0 -25.227273,0 -40.386364,0 -1.955492,0 0.998106,10.181818 -0.957386,10.181818 0,1.713068 -10,-1.482954 -10,0.230114 0,10.984848 0,16.696969 0,27.681818 z"
+       id="rect2855"
+       sodipodi:nodetypes="cccscsc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 8.1818182,22.909091 18.176727,13.442458"
+       id="path2815" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.272727,24.181818 c 26.545455,0 27.636364,0.181818 27.636364,0.181818"
+       id="path2821" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.090909,32.909091 c 27.454546,0 28.181818,0 28.181818,0"
+       id="path2823" />
+  </g>
+</svg>
